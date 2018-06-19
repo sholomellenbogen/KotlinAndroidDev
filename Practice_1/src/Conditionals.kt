@@ -16,7 +16,7 @@ fun main(args : Array<String>){
         2-> "a=2"
         else-> "NOT FOUND"
     }
-    println("resultStr")
+    println(resultStr)
 //    if (a==b)
 //        println("a == b")
 //    else

@@ -8,7 +8,7 @@ fun main(args : Array<String>){
     var range4 = 5.downTo(0)
 
     for(x in range3)
-            println(x)
+        println(x)
 
 
     var name : String = "Sholom"
@@ -24,6 +24,6 @@ fun main(args : Array<String>){
     println(strNum.length)
     println(name.substring(0..3))
 
-    
+
     println("Name = $name")
 }
